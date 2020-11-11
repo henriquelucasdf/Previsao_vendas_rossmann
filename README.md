@@ -7,4 +7,4 @@ Este projeto foi baseado no curso ["Data Science em Produção"](https://sejaumd
 
 Os dados para a realização desse projeto foram obtidos de uma competição do [Kaggle](https://www.kaggle.com/c/rossmann-store-sales).
 
-Para ver todos os detalhes deste projeto, visite o meu portfólio neste [link](https://henriquelucasdf.github.io/post/projeto1/)
+### **Para ver todos os detalhes deste projeto, visite o meu portfólio neste [link](https://henriquelucasdf.github.io/post/projeto1/)**
